@@ -13,4 +13,4 @@ function removeDuolicate(names){
 
 
 const uniqueNames=removeDuolicate(names);
-console.log(uniqueNames);
+console.log(uniqueNames); 
